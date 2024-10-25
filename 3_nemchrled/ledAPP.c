@@ -10,6 +10,7 @@
 #define LEDON 1
 
 //./ledAPP filename 0:1    //0表示关灯，1表示开灯
+//测试一下git
 
 int main(int argc, char *argv[])
 {
